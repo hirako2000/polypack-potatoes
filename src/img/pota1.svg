@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="86px" height="64px" viewBox="0 0 86 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="potatosimple" transform="translate(302.000000, 39.000000) rotate(90.000000) translate(-302.000000, -39.000000) translate(231.000000, -263.000000)" fill="#696969">
+            <g id="1" transform="translate(32.000000, 518.000000)">
+                <path d="M34.999,85.784 C34.571,85.784 34.139,85.775 33.695,85.758 C33.611,85.762 33.411,85.764 33.11,85.764 C29.098,85.764 8.852,84.934 4.264,68.506 C-0.113,52.83 -1.175,30.573 6.834,18.748 C10.61,13.176 20.769,0.215 33.53,0.215 C38.301,0.215 42.904,2.068 47.213,5.72 C65.428,21.163 64.146,39.924 61.759,49.731 C61.343,51.442 60.964,53.352 60.561,55.376 C58.004,68.209 54.502,85.784 34.999,85.784 Z M33.7,83.57 L33.743,83.573 C52.554,84.347 55.814,68.008 58.417,54.949 C58.824,52.903 59.209,50.971 59.637,49.216 C61.903,39.898 63.119,22.071 45.8,7.387 C41.897,4.079 37.77,2.401 33.53,2.401 C21.485,2.401 11.436,15.852 8.644,19.974 C2.114,29.614 1.178,49.329 6.37,67.916 C10.532,82.824 29.376,83.579 33.11,83.579 C33.455,83.579 33.646,83.573 33.658,83.573 L33.7,83.57 Z" id="Shape"></path>
+                <circle id="Oval" cx="16.64" cy="63.55" r="2.186"></circle>
+                <circle id="Oval" cx="27.934" cy="56.87" r="2.793"></circle>
+                <circle id="Oval" cx="14.41" cy="36.306" r="2.628"></circle>
+                <circle id="Oval" cx="32.912" cy="17.892" r="2.185"></circle>
+                <circle id="Oval" cx="48.046" cy="35.455" r="3.477"></circle>
+                <circle id="Oval" cx="39.877" cy="75.771" r="2.108"></circle>
+                <circle id="Oval" cx="45.966" cy="58.267" r="1.396"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
