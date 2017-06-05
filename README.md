@@ -10,7 +10,7 @@ More than that, almost an implementation of [Potato-landing-page](https://dribbb
 
 ### Motivation
 
-Just playing with basscss to experiment mostly with its grid system and spacing utilities
+Just playing with [Basscss](http://basscss.com/) to experiment mostly with its grid system and spacing utilities.
 
 #### Size
 
